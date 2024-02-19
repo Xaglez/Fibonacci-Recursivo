@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\bin\Debug\net8.0\exercicio c#.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\bin\Debug\net8.0\exercicio c#.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\bin\Debug\net8.0\exercicio c#.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\bin\Debug\net8.0\exercicio c#.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\bin\Debug\net8.0\exercicio c#.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\refint\exercicio c#.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\exercicio c#.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\exercicio c#\obj\Debug\net8.0\ref\exercicio c#.dll
